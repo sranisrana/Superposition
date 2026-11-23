@@ -13,3 +13,13 @@ hi. this is my personal preset that i decided to share. i quite like it and hope
 ⚫ **NSFL(?):** it'll definitely do nsfw, but i'm honestly not much of a gooner so i haven't gotten into the really intense stuff with this preset. i don't know how it'll handle that, but try it out and let me know if you have any problems with it.<br>
 ⚫ **FLEXIBILITY(?):** while there are a lot of toggles for the story stuff, you can definitely tell that i included some toggles as an afterthought, especially the 'director' toggle. i dunno what that does and don't care for that style of play so i haven't gotten around to testing it. lemme know what it feels like and what edits it might need.
 
+## WHAT'S UP WITH THAT NPC TRACKER?
+for those of us who pare down our chats pretty aggressively, this quick reply script exists to ensure npcs aren't lost to the march of summarization. you have to toggle on the npc tracking prompt in the preset to make use of this; the quick reply script looks for an npc block written by the ai to put into a chat-bound lorebook. gemini is notably reticent to add npcs but, oh well. either you need this or you don't.
+
+## THE ANNOYING CASE OF THE STATE BLOCK
+so, the state block is a hidden block made by the ai in every reply that provides the most important functionality of this preset; long-term stories that are actually coherent. the huge problem with it is that i haven't found a way to get it out of the reply, so when you go to edit a message (as we often do) you'll end up seeing the very secret stuff the ai is doing in your story. some people like being able to see this, and some people really don't. the only solution is could find is throwing it at the very top of the message so that it's not right there in your face when you try to edit prose. if any of you find a solution for this, dm me on reddit! u/Automatic-Dig4876
+
+## WON'T ALL OF THESE BLOCKS BOG UP MY CHAT WITH TOKENS?
+no, there are included regexes to strip em all down to a depth of two replies.
+
+umm... i think that's it. maybe? i'll probably remember something else to add here at like 2am in bed. if you have any issues, lemme know on reddit @u/Automatic-Dig4876. happy rping <3
