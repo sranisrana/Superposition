@@ -22,4 +22,5 @@ so, the state block is a hidden block made by the ai in every reply that provide
 ## WON'T ALL OF THESE BLOCKS BOG UP MY CHAT WITH TOKENS?
 no, there are included regexes to strip em all down to a depth of two replies.
 
+# CONCLUSION
 umm... i think that's it. maybe? i'll probably remember something else to add here at like 2am in bed. if you have any issues, lemme know on reddit @u/Automatic-Dig4876. happy rping <3
